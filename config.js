@@ -1,0 +1,1 @@
+var nMaxPage = 3;var sCourseName = "test";
